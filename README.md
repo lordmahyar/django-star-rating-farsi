@@ -1,5 +1,5 @@
 # django-star-ratings-farsi
-
+<img src="Screenshot.jpg" height="200">
 Python 3 compatible Farsi ratings for Django.
 
 Add ratings to any Django model with a template tag.
